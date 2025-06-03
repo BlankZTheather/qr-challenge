@@ -4,12 +4,6 @@ This is a solution to
 the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-
 ## Overview
 
 This is my attempt at replicating the QR code component webpage.
@@ -22,5 +16,5 @@ This is my attempt at replicating the QR code component webpage.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BlankZTheather/qr-challenge)
-- Live Site URL: [Add live site URL here](https://blankztheather.github.io/qr-challenge/)
+- [Solution URL](https://github.com/BlankZTheather/qr-challenge)
+- [Live Site URL](https://blankztheather.github.io/qr-challenge/)

@@ -16,5 +16,5 @@ This is my attempt at replicating the QR code component webpage.
 
 ### Links
 
-- [Solution URL](https://github.com/BlankZTheather/qr-challenge)
+- [Submission Page](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-css-nesting-1LwV76ZD-A)
 - [Live Site URL](https://blankztheather.github.io/qr-challenge/)
